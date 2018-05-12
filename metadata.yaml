@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34908'
     url: http://www.gutenberg.org/2009/agents/34908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31084#Neotropical-Bats-from-Western-M-xico
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
